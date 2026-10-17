@@ -56,7 +56,7 @@ int main()
             sum += a[i][j];
         }
 
-        printf("%d-satr yig'indisi: %d\n", i + 1, sum);
+        printf("%d- yigindisi: %d\n", i + 1, sum);
     }
 
     return 0;
